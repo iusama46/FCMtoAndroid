@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sportivo-3133d",
+  "private_key_id": "4f57k",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClIBQ4b1yGNP2U\CfEdfFQp0HMXNK62FptRsvdh2G2HFOADFBvngnJCmQ/8Ho\nP5hVlhSstTHysTKOwtGNGqzC9lpO2n1IGMr79LtYqbBqGqLdDd3nw3W5gnHHf5Xo\nNJOkcOXqRHar8mX4NZZx4fJMg596/PMsSaJ0ZekbPibRLEAHMraDhzB83zh1oU9r\nyRuwao6tcDh5skLx9av2rWY7onjZ/Llv/UIUXh3ymYDwqFFg5Ti3b/mGDo7Mz4HU\nTBE48Vg1gRLri+prjelXGTcWv6q9wZBSHhMUpJ6sWhkddK1JXDJgf/Lrw1HutbMG\nyQKinPivAgMBAAECggEABVsvh2RxW2HE/J+1onEw+bLPGN2DHV7DrBfqPa9QpFGX\nJvh7TfBTzpZ7FGCD+F7q5MeMDTT6ljCoS7jNtQUBFwMU+NraRCWPTOTvHVncCbpu\nSD7poqzzFh1W/XIaE1KQ/qS+oQMECXpwKeU+tB2nZOcjSaY7Ztw8zOU331crqVPA\nJBGbWKyb/YzW/MCG9cMWqoUcPa4qCOjKAFOQsRdpkFGutAwwaZb+9nGYtwPIez5o\nfslpeuVxuPOJTu0FjQBMaB5MJED3Z5rRSoM+1clEZpzl8aQgHQXmOKlgrGkpkJNT\n0358tcWBZO8lSAOY02JV7E8kXlQGq4DnhdFAzdfpwQKBgQDcVil8jPCqNQAKMPgA\n6ahroAK30kQPZRy7wduxNYR9TUl7Yj0GdtZNz4YH8MJSyLUm/phyonJHm2J9bIMV\nCfASC8cezTmarwjRIRX3yR+pdKfqlrqukeVjKqnXYslzgleyXcsjMy3E8jtPc6Ri\nHl8W4rSaHWOSCCnPwVlndLMYQQKBgQC/2jCtJVdCsY7KfGqh3ivt7czqK6vVTRyu\nqjNMqAuAN63ziRH9/N6iR5nKo9k+sNqUhuFldJRlRpXbI4azfu+u0bV3sAxKAn5Z\nMVmz6oSmPN5PEBE6bWqOk2e6C8UqjxnG+Zrdi5OSUsCH0ArrQMQR65zSb/Rpl/YT\n9K3PbnRU7wKBgEAZqPQdJJ6/0IUmfd/2GhNFd8T2nOpFpjhRS5KgWS0C4Q/OIqbQ\nx8PXTczdlAr1bQ4tHziqXcjLQbnvaasjOv5lAsbJOarwpQYCNBvkHRv1Xix3MVQ8\nCZnx/Xs1uBmsn8q6UrCo4PXc6rhQklAhOdS0m4oCZsdDLLbOLy5T2w6BAoGBAIUy\n+oqsGzptxmKlIO+DLeLCMHwAmAu+vwQxnO5C2cFKZxZneztpHjVzGr6LJaCV7xwh\nzUnAN+tcp1x+/N2Qat5oMOKJMu8LbieE0O/OCgzUw9AGqr9zCgE1LFYKJ/jVY6M2\n1yOr7Wgw1gU1Fu+ghsCeYcHlAr9xRuMyBJ645EG3AoGADuHKb0r8zUxm290+1ghp\nnZFDcxvlkdRfg18B3C4gQ9j239tloArm/Mpskf1DxMFCd7WDkzTQLjzHYftY5iE5\nNXTja6WhVuvvI4PBnbRqlE5yUQkW5HCp5bKDNJeGwTU0wtRW7hCIu8sJoZam0T+H\nd/Vn2rYtMAjKIX0iNcKlitU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7ax0p@sportivo-3133d.iam.gserviceaccount.com",
+  "client_id": "113256171674494590600",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7ax0p%40sportivo-3133d.iam.gserviceaccount.com"
+}

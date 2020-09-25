@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639097103531",
+    "firebase_url": "https://console-project-for-cwc.firebaseio.com",
+    "project_id": "console-project-for-cwc",
+    "storage_bucket": "console-project-for-cwc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639097103531:android:159ff801fd86aa787803ee",
+        "android_client_info": {
+          "package_name": "com.xpkian.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639097103531-re916cnrmfvhj0mc61afsv5c4ob7th4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGe829puPRR_jay8CDVEtpfBN2olYZQRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639097103531-re916cnrmfvhj0mc61afsv5c4ob7th4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
